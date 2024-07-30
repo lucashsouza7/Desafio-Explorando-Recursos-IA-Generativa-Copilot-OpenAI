@@ -1,0 +1,1 @@
+# Desafio-Explorando-Recursos-IA-Generativa-Copilot-OpenAI
